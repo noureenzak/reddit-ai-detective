@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
+    "answer": "An echo"
+  },
+  {
+    "id": 2,
+    "question": "A man is found dead in a locked room with no windows. The only items in the room are a table, a chair, and a puddle of water. How did he die?",
+    "answer": "He died of dehydration"
+  },
+  {
+    "id": 3,
+    "question": "At a dinner party, the host is found dead. The guests are a chef, a doctor, a lawyer, and a teacher. The chef says, 'I was preparing dessert.' The doctor says, 'I was checking the host’s pulse.' The lawyer says, 'I was discussing a contract.' The teacher says, 'I was grading papers.' Who killed the host?",
+    "answer": "The doctor"
+  },
+  {
+    "id": 4,
+    "question": "In a famous movie, a character says, 'I’ll be back.' Who said it, and what was the context?",
+    "answer": "Arnold Schwarzenegger in The Terminator"
+  },
+  {
+    "id": 5,
+    "question": "What has keys but can’t open locks?",
+    "answer": "A piano"
+  }
+]
