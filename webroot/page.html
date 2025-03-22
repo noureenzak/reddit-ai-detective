@@ -1,26 +1,40 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Daily Mystery Challenge</title>
-    <link rel="stylesheet" href="style.css" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&family=Playfair+Display:wght@400;700&family=Manrope:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=La+Belle+Aurore&family=New+Rocker&display=swap" rel="stylesheet">
   </head>
-  <body>
+<body>
     <div class="container">
-      <h1>Daily Mystery Challenge 🕵️‍♂️</h1>
-      <div id="mystery-container">
-        <h2 id="mystery-question"></h2>
-        <div id="clock"></div>
-        <input id="answer-input" type="text" placeholder="Your answer..." />
-        <button id="submit-answer">Submit</button>
-        <p id="result-message"></p>
-      </div>
-      <div id="leaderboard">
-        <h3>Leaderboard 🏆</h3>
-        <ul id="leaderboard-list"></ul>
-      </div>
+        <h1>Daily Mystery Challenge 🕵️‍♂️</h1>
+        <div id="timer">
+          <div id="hours">00<span>Hours</span></div>
+          <div id="minutes">00<span>Minutes</span></div>
+          <div id="seconds">00<span>Seconds</span></div>
+        </div>
+        
+        <div id="mystery-container">
+          <div class="frame-content">
+            <h2 id="mystery-question">Loading today's mystery...</h2>
+            <input id="answer-input" type="text" placeholder="Enter your answer..." />
+            <a id="submit-answer">
+              <img src="pictures/button.png" alt="Submit">
+            </a>
+            <p id="result-message"></p>
+          </div>
+        </div>
+        <div id="leaderboard">
+            <h3>Leaderboard 🏆</h3>
+            <ul id="leaderboard-list"></ul>
+        </div>
     </div>
     <script src="script.js"></script>
-  </body>
+</body>
 </html>
