@@ -19,7 +19,7 @@ devvit login
 ```
 devvit new my-project
 or
-devvit new --template --template web-view-post
+devvit new --template web-view-post
 ```
 
 4. Open folder on vs code:
