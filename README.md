@@ -12,7 +12,7 @@ npm install -g devvit
 
 2. Login to Devvit:
 ```
-npm install -g devvit
+devvit login
 ```
 
 3. Create a new project:
