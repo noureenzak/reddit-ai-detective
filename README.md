@@ -1,42 +1,29 @@
-before starting the project, check node and npm version: npm -v
-update to newer versions:
-```
-nvm install latest
-nvm use latest
-```
+# Daily Mystery Challenge 🕵️‍♂️
 
-1. Install Devvit CLI:
-```
-npm install -g devvit
-```
+**Categories:** Gaming, Beginner-Friendly  
+**Built for:** Hack Reddit 2025  
+**Team:** Noureen & Sharshit Singh
 
-2. Login to Devvit:
-```
-devvit login
-```
+## 🎯 Overview
+This is a daily mystery-solving game for Reddit. Each day, users get a new mystery in an interactive post. They enter their answer, get feedback, and see how they rank on the leaderboard based on attempts.
 
-3. Create a new project:
-```
-devvit new my-project
-or
-devvit new --template web-view-post
-```
+## ⚙️ Features
+- Daily auto-posting with a mystery prompt
+- Answer submission via web view
+- Leaderboard using Redis storage
+- Fuzzy matching for smart answer checking
+- Built using Devvit’s Custom Post Type + WebView API
 
-4. Open folder on vs code:
-```
-cd my-project
-code .
-```
+## 📍 Demo
+Test subreddit: [r/YourSubredditName](https://reddit.com/r/Super_gaming)  
+Example Post: [Link to Post]([https://reddit.com/r/YourSubredditName/postlink](https://www.reddit.com/r/Super_gaming/comments/1jf1aev/daily_mystery_can_you_solve_it/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button ))
 
-5. Upload your app
-```
-devvit upload
-```
+## 📹 Demo Video
+[YouTube/Vimeo link once uploaded]
 
-6. make sure you have a moderate/group on discord with less than 200 members.
-Now Playtest to test the app in development:
-```
-devvit playtest r/your_group
-```
+## 💻 Tech Stack
+- Devvit (Reddit Dev Platform)
+- Redis
+- HTML/CSS/JS for frontend
+- TypeScript backend
 
-Go to your subreddit and select the three-dot menu next to the Mod Tools button. Click on the "Create New Devvit Post" to open your app in your feed (approve the app and then refresh the page). 
