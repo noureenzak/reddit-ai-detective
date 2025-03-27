@@ -2,7 +2,7 @@
 
 **Categories:** Gaming, Beginner-Friendly  
 **Built for:** Hack Reddit 2025  
-**Team:** Noureen & Sharshit Singh
+**Team:** Noureen Zakaria & Sharshit Singh
 
 ## 🎯 Overview
 This is a daily mystery-solving game for Reddit. Each day, users get a new mystery in an interactive post. They enter their answer, get feedback, and see how they rank on the leaderboard based on attempts.
