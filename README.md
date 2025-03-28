@@ -19,7 +19,7 @@ Test subreddit: [r/YourSubredditName](https://reddit.com/r/Super_gaming)
 Example Post: [Link to Post]([https://reddit.com/r/YourSubredditName/postlink](https://www.reddit.com/r/Super_gaming/comments/1jf1aev/daily_mystery_can_you_solve_it/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button ))
 
 ## 📹 Demo Video
-[YouTube/Vimeo link once uploaded]
+
 
 ## 💻 Tech Stack
 - Devvit (Reddit Dev Platform)
