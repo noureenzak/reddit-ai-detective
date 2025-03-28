@@ -1,4 +1,4 @@
-Checkout game: https://www.reddit.com/user/detective-game/
+Checkout game: https://www.reddit.com/r/Super_gaming/
 # Daily Mystery Challenge 🕵️‍♂️
 
 **Categories:** Gaming, Beginner-Friendly  
