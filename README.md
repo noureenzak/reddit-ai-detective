@@ -1,3 +1,4 @@
+Checkout game: https://www.reddit.com/user/detective-game/
 # Daily Mystery Challenge 🕵️‍♂️
 
 **Categories:** Gaming, Beginner-Friendly  
@@ -15,7 +16,7 @@ This is a daily mystery-solving game for Reddit. Each day, users get a new myste
 - Built using Devvit’s Custom Post Type + WebView API
 
 ## 📍 Demo
-Test subreddit: [r/YourSubredditName](https://reddit.com/r/Super_gaming)  
+Test subreddit game: [u/detective-game](https://www.reddit.com/r/Super_gaming/)  
 Example Post: [Link to Post]([https://reddit.com/r/YourSubredditName/postlink](https://www.reddit.com/r/Super_gaming/comments/1jf1aev/daily_mystery_can_you_solve_it/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button ))
 
 ## 📹 Demo Video
