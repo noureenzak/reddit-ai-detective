@@ -1,6 +1,10 @@
 {
   "extends": "@devvit/public-api/devvit.tsconfig.json",
   "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
     "noEmit": true
   },
   "include": ["./src/**/*"]

@@ -2,26 +2,111 @@
   {
     "id": 1,
     "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
-    "answer": "An echo"
+    "answer": "echo",
+    "hints": [
+      "I'm often heard in mountains and canyons",
+      "I repeat what you say",
+      "I'm a reflection of sound"
+    ]
   },
   {
     "id": 2,
     "question": "A man is found dead in a locked room with no windows. The only items in the room are a table, a chair, and a puddle of water. How did he die?",
-    "answer": "He died of dehydration"
+    "answer": "dehydration",
+    "hints": [
+      "Think about the state of the water",
+      "The room wasn't always locked",
+      "He was trapped for a long time"
+    ]
   },
-  {
-    "id": 3,
-    "question": "At a dinner party, the host is found dead. The guests are a chef, a doctor, a lawyer, and a teacher. The chef says, 'I was preparing dessert.' The doctor says, 'I was checking the host’s pulse.' The lawyer says, 'I was discussing a contract.' The teacher says, 'I was grading papers.' Who killed the host?",
-    "answer": "The doctor"
-  },
-  {
-    "id": 4,
-    "question": "In a famous movie, a character says, 'I’ll be back.' Who said it, and what was the context?",
-    "answer": "Arnold Schwarzenegger in The Terminator"
-  },
-  {
-    "id": 5,
-    "question": "What has keys but can’t open locks?",
-    "answer": "A piano"
-  }
+    {
+      "id": 3,
+      "question": "I'm not alive, but I grow. I don't have lungs, but I need air. I don't have a mouth, but water kills me. What am I?",
+      "answer": "fire",
+      "hints": [
+        "I need oxygen to exist",
+        "I can be started with a spark",
+        "I am often used for warmth and cooking"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "The person who makes me, sells me. The person who buys me, never uses me. The person who uses me, never knows they are using me. What am I?",
+      "answer": "coffin",
+      "hints": [
+        "I'm used when life ends",
+        "I'm made of wood or metal",
+        "People are placed inside me"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "The more you remove from me, the bigger I get. What am I?",
+      "answer": "hole",
+      "hints": [
+        "I'm often found in the ground",
+        "Digging makes me larger",
+        "I can be natural or man-made"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "I'm always running but never move. What am I?",
+      "answer": "clock",
+      "hints": [
+        "I measure time",
+        "I have hands but no fingers",
+        "I tick constantly"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "I have keys but open no locks. What am I?",
+      "answer": "piano",
+      "hints": [
+        "I produce music",
+        "My keys are black and white",
+        "People press my keys to play melodies"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "I fly without wings. I cry without eyes. Wherever I go, darkness follows me. What am I?",
+      "answer": "cloud",
+      "hints": [
+        "I can bring rain",
+        "I'm often white, gray, or dark",
+        "I float in the sky"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What has to be broken before you can use it?",
+      "answer": "egg",
+      "hints": [
+        "It has a shell",
+        "Often used in cooking",
+        "Comes from a bird"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "I can be cracked, made, told, and played. What am I?",
+      "answer": "joke",
+      "hints": [
+        "People laugh when I am good",
+        "I can be short or long",
+        "Comedians tell me for a living"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "The more you take, the more you leave behind. What am I?",
+      "answer": "footsteps",
+      "hints": [
+        "You make me when you walk",
+        "I disappear over time",
+        "I can be seen on sand or snow"
+      ]
+    }
 ]
