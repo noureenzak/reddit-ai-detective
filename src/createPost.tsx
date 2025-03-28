@@ -1,5 +1,5 @@
+// src\createPost.tsx
 import { Devvit } from '@devvit/public-api';
-
 Devvit.addMenuItem({
   label: 'Create New Mystery Post',
   location: 'subreddit',
@@ -7,7 +7,7 @@ Devvit.addMenuItem({
     const { reddit, ui } = context;
     const subreddit = await reddit.getCurrentSubreddit();
     const post = await reddit.submitPost({
-      title: 'Daily Mystery Challenge 🕵️‍♂️',
+      title: `Daily Mystery Challenge🕵🏻 - ${new Date().toLocaleDateString()}`,
       subredditName: subreddit.name,
       preview: (
         <vstack height="100%" width="100%" alignment="middle center">
@@ -21,3 +21,4 @@ Devvit.addMenuItem({
 });
 
 export default Devvit;
+
